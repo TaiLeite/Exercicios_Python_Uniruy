@@ -1,0 +1,24 @@
+[2026-06-04 11:14:13] [INFO] - O sistema foi iniciado com sucesso.
+[2026-06-04 11:14:13] [WARNING] - O uso de memória RAM ultrapassou 80%.
+[2026-06-04 11:14:13] [ERROR] - Falha ao conectar com o banco de dados.
+[2026-06-04 11:20:19] [INFO] - O sistema foi iniciado com sucesso.
+[2026-06-04 11:20:19] [WARNING] - O uso de memória RAM ultrapassou 80%.
+[2026-06-04 11:20:19] [ERROR] - Falha ao conectar com o banco de dados.
+[04/06/26 11:24:31] [INFO] - O sistema foi iniciado com sucesso.
+[04/06/26 11:24:31] [WARNING] - O uso de memória RAM ultrapassou 80%.
+[04/06/26 11:24:31] [ERROR] - Falha ao conectar com o banco de dados.
+[04/06/26 11:28:48] [INFO] - O sistema foi iniciado com sucesso.
+[04/06/26 11:28:48] [WARNING] - O uso de memória RAM ultrapassou 80%.
+[04/06/26 11:28:48] [ERROR] - Falha ao conectar com o banco de dados.
+2026-06-04 11:35:13,434 - INFO - Log de INFO registrado com sucesso!
+[04/06/26 11:35:13] [INFO] - O sistema foi iniciado com sucesso.
+2026-06-04 11:35:13,434 - INFO - Log de WARNING registrado com sucesso!
+[04/06/26 11:35:13] [WARNING] - O uso de memória RAM ultrapassou 80%.
+2026-06-04 11:35:13,435 - INFO - Log de ERROR registrado com sucesso!
+[04/06/26 11:35:13] [ERROR] - Falha ao conectar com o banco de dados.
+[04/06/26 11:38:00] [INFO] - O sistema foi iniciado com sucesso.
+[04/06/26 11:38:00] [WARNING] - O uso de memória RAM ultrapassou 80%.
+[04/06/26 11:38:00] [ERROR] - Falha ao conectar com o banco de dados.
+[04/06/26 11:41:04] [INFO] - O sistema foi iniciado com sucesso.
+[04/06/26 11:41:04] [WARNING] - O uso de memória RAM ultrapassou 80%.
+[04/06/26 11:41:04] [ERROR] - Falha ao conectar com o banco de dados.

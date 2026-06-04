@@ -1,0 +1,38 @@
+[
+    {
+        "Nome":"Ana Silva",
+        "Idade":28,
+        "Cidade":"S\u00e3o Paulo",
+        "Renda":4500.0
+    },
+    {
+        "Nome":"Bruno Costa",
+        "Idade":35,
+        "Cidade":"Rio de Janeiro",
+        "Renda":6200.0
+    },
+    {
+        "Nome":"Carlos Oliveira",
+        "Idade":42,
+        "Cidade":"S\u00e3o Paulo",
+        "Renda":12000.0
+    },
+    {
+        "Nome":"Daniela Souza",
+        "Idade":28,
+        "Cidade":"Belo Horizonte",
+        "Renda":3800.0
+    },
+    {
+        "Nome":"Eduardo Lima",
+        "Idade":50,
+        "Cidade":"S\u00e3o Paulo",
+        "Renda":8500.0
+    },
+    {
+        "Nome":"Fernanda Alves",
+        "Idade":35,
+        "Cidade":"Rio de Janeiro",
+        "Renda":5100.0
+    }
+]
